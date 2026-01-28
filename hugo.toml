@@ -1,0 +1,11 @@
+baseURL = "https://akshaybk.com/"
+languageCode = "en-us"
+title = "Akshay B.K — DevOps Engineer"
+theme = "PaperMod"
+
+[params]
+  author = "Akshay B.K"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  defaultTheme = "auto"
+
