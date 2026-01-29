@@ -6,7 +6,31 @@
     <description>Recent content on Akshay B.K — DevOps Engineer</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps Job Hub Platform</title>
+      <link>http://localhost:1313/projects/devops-job-hub/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/devops-job-hub/</guid>
+      <description>&lt;p&gt;This project powers akshaybk.com.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloudflare Pages&lt;/li&gt;
+&lt;li&gt;AWS Serverless (demo stack)&lt;/li&gt;
+&lt;li&gt;Terraform&lt;/li&gt;
+&lt;li&gt;GitHub Actions&lt;/li&gt;
+&lt;li&gt;Hugo frontend&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What it demonstrates:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Infrastructure as Code&lt;/li&gt;
+&lt;li&gt;CI/CD pipelines&lt;/li&gt;
+&lt;li&gt;Cost-optimized architecture&lt;/li&gt;
+&lt;li&gt;Multi-cloud strategy&lt;/li&gt;
+&lt;li&gt;DNS + CDN control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Architecture diagrams and repos linked soon.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
